@@ -33,7 +33,7 @@ if uploaded_file is not None:
 
     # Load Whisper model
     st.info("Loading Whisper model (first time may take a while)...")
-    model = whisper.load_model("small")  # You can use "base", "small", "medium", or "large"
+    model = whisper.load_model("base")  # You can use "base", "small", "medium", or "large"
 
     # Transcribe
     st.info("Transcribing audio...")
