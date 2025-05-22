@@ -1,7 +1,2 @@
-pip>=23.0
-setuptools>=65.0
-wheel>=0.38
-streamlit==1.22.0
-openai-whisper==20230314
-torch==2.0.1
-torchaudio==2.0.2
+streamlit
+whisper
