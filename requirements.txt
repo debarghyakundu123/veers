@@ -1,2 +1,3 @@
-
-streamlit openai-whisper ffmpeg-python
+streamlit
+openai
+ffmpeg-python
